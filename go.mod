@@ -1,3 +1,3 @@
-module github.com/robert-impey/applied-concurrency-in-go-3164282
+module github.com/applied-concurrency-in-go
 
 go 1.21

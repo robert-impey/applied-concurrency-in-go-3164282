@@ -1,14 +1,8 @@
-module github.com/applied-concurrency-in-go
+module github.com/robert-impey/applied-concurrency-in-go-3164282
 
-go 1.17
+
+go 1.21.5
 
 require github.com/gorilla/mux v1.8.0
 
 require github.com/google/uuid v1.3.0
-
-require (
-	github.com/davecgh/go-spew v1.1.0 // indirect
-	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/stretchr/testify v1.7.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
-)

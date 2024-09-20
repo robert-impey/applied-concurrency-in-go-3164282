@@ -3,3 +3,4 @@ node_modules
 .tmp
 npm-debug.log
 applied-concurrency-in-go
+.idea/workspace.xml
